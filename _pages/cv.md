@@ -37,7 +37,7 @@ __Analysis, Algebra, AI, Reinforcement Learning, Deep Learning, Networks__
 __Abstract/Linear Algebra, Differential Equations, Analysis, Topology, Probability__
 
 `Computer Science` 
-__Systems Programming, Computer Architecture, Algorithms and Complexity, Machine Learning, Computational Geometry, Operating Systems, Modern Cryptography Numerical Methods__
+__Systems Programming, Computer Architecture, Algorithms and Complexity, Machine Learning, Computational Geometry, Operating Systems, Modern Cryptography, Numerical Methods__
 
 
 ## Teaching
