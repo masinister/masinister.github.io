@@ -116,7 +116,7 @@ Created an accurate computer simulation of the Integrated Fuel Pump Control syst
 
 ## Specific Skills
 `Programming`
-Python, Java, C, C++, Javascript (node.js)
+Python, Julia, Java, C, C++, Javascript (node.js)
 
 `Implementations`
 Deep Learning, Convolutional/Recurrent Networks, Reinforcement Learning, FewShot Learning, Meta Learning, Evolutionary Algorithms, Neuromorphic Computing
