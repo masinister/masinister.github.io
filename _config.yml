@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mason DiCicco"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : " "
   location         : "Worcester Polytechnic Institute"
   employer         :
   pubmed           : 
