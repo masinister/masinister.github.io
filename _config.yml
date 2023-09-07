@@ -86,7 +86,7 @@ author:
   location         : "Worcester Polytechnic Institute"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=WUXSKUoAAAAJ&hl=en&oi=ao"
   email            : "mailto:mtdicicco@wpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
