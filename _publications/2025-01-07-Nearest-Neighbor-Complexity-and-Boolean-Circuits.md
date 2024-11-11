@@ -2,7 +2,7 @@
 title: "Nearest Neighbor Complexity and Boolean Circuits"
 collection: publications
 permalink: /publication/2025-01-07-Nearest-Neighbor-Complexity-and-Boolean-Circuits
-excerpt: 'We initiate the systematic study of the representational power of nearest and \( k \)-nearest neighbors through Boolean circuit complexity.'
+excerpt: 'We initiate the systematic study of the representational power of nearest and k-nearest neighbors through Boolean circuit complexity.'
 date: 2025-01-07
 venue: 'ITCS'
 paperurl: 'http://masinister.github.io/files/nn.pdf'
