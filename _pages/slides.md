@@ -5,11 +5,9 @@ permalink: /slides/
 author_profile: true
 ---
 
-<div class="grid__wrapper">
-  {% for post in site.slides reversed %}
-    {% include archive-single-cv.html type="grid" %}
-  {% endfor %}
-</div>
+{% for post in site.slides reversed %}
+  {% include archive-single-cv.html  %}
+{% endfor %}
 
 <!-- ### Footer
 
