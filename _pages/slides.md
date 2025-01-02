@@ -7,8 +7,6 @@ redirect_from:
   - /talks
 ---
 
-{% include base_path %}
-
 I made lots of slides over the years, feel free to use.
 
 {% include base_path %}
