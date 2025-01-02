@@ -5,8 +5,10 @@ permalink: /slides/
 author_profile: true
 ---
 
+*Page under construction*
+
 {% for post in site.slides reversed %}
-  {% include archive-single-cv.html  %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 <!-- ### Footer
