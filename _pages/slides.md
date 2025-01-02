@@ -12,7 +12,7 @@ I made lots of slides over the years, feel free to use.
 {% include base_path %}
 
 {% for post in site.slides reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}
 
 <!-- ### Footer
