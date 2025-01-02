@@ -10,7 +10,7 @@ redirect_from:
 I made lots of slides over the years, feel free to use.
 
 {% for post in site.slides reversed %}
-  {% include archive-single-talk-cv.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 <!-- ### Footer
