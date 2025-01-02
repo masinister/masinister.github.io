@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% for post in site.slides reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- ### Footer
