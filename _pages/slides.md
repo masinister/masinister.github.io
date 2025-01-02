@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="grid__wrapper">
   {% for post in site.slides reversed %}
-    {% include archive-single.html type="grid" %}
+    {% include archive-single-cv.html type="grid" %}
   {% endfor %}
 </div>
 
