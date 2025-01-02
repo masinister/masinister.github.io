@@ -8,5 +8,5 @@ date: 2023-06-23
 location: "Taipei, Taiwan"
 ---
 
-<embed src="{{ site.baseurl }}/files/subsequence_slides.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/subsequence_slides.pdf" width="900" height="700" type='application/pdf'>
 
