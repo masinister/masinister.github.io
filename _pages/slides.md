@@ -14,7 +14,7 @@ I made lots of slides over the years, feel free to use.
 {% include base_path %}
 
 {% for post in site.slides reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
 
 <!-- ### Footer

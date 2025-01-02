@@ -1,11 +1,11 @@
 ---
 title: "Nearest Neighbor Complexity and Boolean Circuits"
 collection: slides
+type: "Talk"
 permalink: /slides/2025-01-07-Nearest-Neighbor-Complexity-and-Boolean-Circuits
-excerpt: 'An introduction to the study of nearest neighbor representations of Boolean functions.'
+venue: "ITCS"
 date: 2025-01-07
-venue: 'ITCS'
-paperurl: 'http://masinister.github.io/files/nn_slides.pdf'
+location: "Virtual"
 ---
 
 You can also watch this talk here: [https://www.youtube.com/watch?v=zUw9p3-ZVRs](https://www.youtube.com/watch?v=zUw9p3-ZVRs)
