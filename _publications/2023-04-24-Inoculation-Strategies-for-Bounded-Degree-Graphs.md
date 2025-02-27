@@ -1,8 +1,8 @@
 ---
 title: "Inoculation strategies for bounded degree graphs"
 collection: publications
-permalink: /publication/2023-04-24-Inoculation-Strategies-for-Bounded-Degree-Graphs.md
-excerpt: 'We devise asymptotically tight bounds for the price of anarchy for several graph families in a model of epidemic containment.'
+permalink: /publication/2023-04-24-Inoculation-Strategies-for-Bounded-Degree-Graphs
+excerpt: ' We devise asymptotically tight bounds for the price of anarchy for several graph families in a model of epidemic containment.'
 date: 2023-04-24
 venue: 'TCS Volume 1035'
 paperurl: 'http://masinister.github.io/files/poa.pdf'
