@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-24-Inoculation-Strategies-for-Bounded-Degree-Graphs
 excerpt: ' We devise asymptotically tight bounds for the price of anarchy for several graph families in a model of epidemic containment.'
 date: 2025-04-29
-venue: 'TCS Volume 1035'
+venue: 'Theoretical Computer Science, Volume 1035'
 paperurl: 'http://masinister.github.io/files/poa.pdf'
 ---
 *In collaboration with Henry Poskanzer and Daniel Reichman*
