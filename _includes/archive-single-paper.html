@@ -1,0 +1,29 @@
+{% include base_path %}
+
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+<div class="archive__item-paper">
+  <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    {% if post.author %}
+      <p class="archive__item-authors"><strong>Authors:</strong> {{ post.author }}</p>
+    {% endif %}
+    {% if post.venue %}
+      <p class="archive__item-venue"><strong>Published in:</strong> <i>{{ post.venue }}</i></p>
+    {% endif %}
+    {% if post.date %}
+      <p class="archive__item-date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+    {% if post.paperurl %}
+      <p class="archive__item-download">Download paper: <a href="{{ post.paperurl }}" target="_blank" rel="noopener"><u>{{ post.paperurl }}</u></a></p>
+    {% endif %}
+    {% if post.citation %}
+      <p class="archive__item-citation"><strong>Recommended citation:</strong> {{ post.citation }}</p>
+    {% endif %}
+  </article>
+</div>

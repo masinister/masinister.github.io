@@ -1,5 +1,6 @@
 ---
 title: "Nearest Neighbor Complexity and Boolean Circuits"
+author: 'Mason DiCicco, Vladimir Podolskii and Daniel Reichman'
 collection: publications
 permalink: /publication/2025-01-07-Nearest-Neighbor-Complexity-and-Boolean-Circuits
 excerpt: 'We initiate the systematic study of the representational power of nearest and k-nearest neighbors through Boolean circuit complexity.'
@@ -7,7 +8,6 @@ date: 2025-01-07
 venue: 'ITCS'
 paperurl: 'http://masinister.github.io/files/nn.pdf'
 ---
-*Mason DiCicco, Vladimir Podolskii and Daniel Reichman*
 
 **Abstract** A nearest neighbor representation of a Boolean function *f* is a set of vectors (anchors) labeled by 0 or 1 such that *f(x) = 1* if and only if the closest anchor to *x* is labeled by 1. This model was introduced by Hajnal, Liu, and Turán (2022), who studied bounds on the minimum number of anchors required to represent Boolean functions under different choices of anchors (real vs. Boolean vectors) as well as the more expressive model of *k*-nearest neighbors.
 
