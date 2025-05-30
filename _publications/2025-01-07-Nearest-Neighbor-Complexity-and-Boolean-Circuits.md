@@ -7,7 +7,7 @@ date: 2025-01-07
 venue: 'ITCS'
 paperurl: 'http://masinister.github.io/files/nn.pdf'
 ---
-*In collaboration with Vladimir Podolskii and Daniel Reichman*
+*Mason DiCicco, Vladimir Podolskii and Daniel Reichman*
 
 **Abstract** A nearest neighbor representation of a Boolean function *f* is a set of vectors (anchors) labeled by 0 or 1 such that *f(x) = 1* if and only if the closest anchor to *x* is labeled by 1. This model was introduced by Hajnal, Liu, and Turán (2022), who studied bounds on the minimum number of anchors required to represent Boolean functions under different choices of anchors (real vs. Boolean vectors) as well as the more expressive model of *k*-nearest neighbors.
 
