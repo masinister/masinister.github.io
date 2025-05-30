@@ -1,6 +1,6 @@
 ---
 title: "Inoculation strategies for bounded degree graphs"
-author: 'Mason DiCicco, Henry Poskanzer and Daniel Reichman
+author: 'Mason DiCicco, Henry Poskanzer and Daniel Reichman'
 collection: publications
 permalink: /publication/2023-04-24-Inoculation-Strategies-for-Bounded-Degree-Graphs
 excerpt: ' We devise asymptotically tight bounds for the price of anarchy for several graph families in a model of epidemic containment.'
