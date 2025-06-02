@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2023-04-14-Learning-and-Communication-Complexity-of-Subsequence-Containment
 excerpt: ' We devise asymptotically tight bounds for the communication complexity of subsequence detections and the sample complexity (VC dimension) of a corresponding classifier.'
 date: 2023-04-14
-venue: 'ISIT'
+venue: 'The 2023 IEEE International Symposium on Information Theory (ISIT)'
 paperurl: 'http://masinister.github.io/files/subsequence.pdf'
 ---
 
