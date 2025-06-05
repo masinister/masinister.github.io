@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2025-01-07-Nearest-Neighbor-Complexity-and-Boolean-Circuits
 excerpt: 'We initiate the systematic study of the representational power of nearest and k-nearest neighbors through Boolean circuit complexity.'
 date: 2025-01-07
-venue: 'ITCS'
+venue: 'The 16th Innovations in Theoretical Computer Science (ITCS)'
 paperurl: 'http://masinister.github.io/files/nn.pdf'
 ---
 
