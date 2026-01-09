@@ -1,0 +1,22 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    container_name: jekyll-site
+    command: >
+      bash -c "bundle install &&
+      bundle exec jekyll serve 
+      --watch --force_polling --livereload 
+      --host 0.0.0.0 
+      --config _config.yml,_config.dev.yml"
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+      - jekyll_bundle:/usr/local/bundle
+    environment:
+      - JEKYLL_ENV=development
+      - PAGES_REPO_NWO=masinister/masinister.github.io
+
+volumes:
+  jekyll_bundle:
